@@ -16,7 +16,8 @@ const app = express();
 // Allowed origins
 const allowedOrigins = [
   "http://localhost:5173",                 // local dev
-  "https://hospital-booking-4.onrender.com" // deployed frontend
+  "https://hospital-website-aul7.onrender.com" // deployed frontend
+ // deployed frontend" // deployed frontend
 ];
 
 // Middlewares
