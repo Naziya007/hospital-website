@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "https://hospital-booking-1.onrender.com", // backend URL
+  baseURL: "https://hospital-website-2.onrender.com", // backend URL
 });
 
 // Token Auto Attach
